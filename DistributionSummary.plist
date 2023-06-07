@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Interaction_Interface.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FAC755440B36B17FE5B659161205C664555B32DF</string>
+				<key>dateExpires</key>
+				<string>2024/06/03</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FAC755440B36B17FE5B659161205C664555B32DF</string>
+						<key>dateExpires</key>
+						<string>2024/06/03</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZJ2WHR4CZT</string>
+						<key>name</key>
+						<string>Dabin Won</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ZJ2WHR4CZT.com.olataseoul</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ZJ2WHR4CZT</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Interaction_Interface.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0bd2a38a-3de7-4cf7-9dec-b9d8104881d8</string>
+				<key>dateExpires</key>
+				<string>2024/06/03</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.olataseoul</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ZJ2WHR4CZT</string>
+				<key>name</key>
+				<string>Dabin Won</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
